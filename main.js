@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual fruta vc prefere?",
+        enunciado: "Qual personagem da série A Grande Família você seria?",
         alternativas: [
             {
-                texto: "Banana",
-                afirmacao: "Você é corinthiano"
+                texto: "Agostinho Carrara",
+                afirmacao: ""
             },
             {
-                texto: "Maçã",
-                afirmacao: "Você é londrinense"
+                texto: "Beiçola",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Qual personagem do Clube das Winx você se identifica mais?",
         alternativas: [
             {
-                texto: "Texto 2.1",
-                afirmacao: "Afirmação 2.1"
+                texto: "Bloom",
+                afirmacao: ""
             },
             {
-                texto: "Texto 2.2",
-                afirmacao: "Afirmação 2.2"
+                texto: "Flora",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Qual personagem de Backyardigans você seria?",
         alternativas: [
             {
-                texto: "Texto 3.1",
-                afirmacao: "Afirmação 3.1"
+                texto: "Pablo",
+                afirmacao: ""
             },
             {
-                texto: "Texto 3.2",
-                afirmacao: "Afirmação 3.2"
+                texto: "Oniqua",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "Qual árbitro do Campeonato Brasileiro você se identifica mais?",
         alternativas: [
             {
-                texto: "Texto 4.1",
-                afirmacao: "Afirmação 4.1"
+                texto: "Daronco",
+                afirmacao: ""
             },
             {
-                texto: "Texto 4.2",
-                afirmacao: "Afirmação 4.2"
+                texto: "Raphael Claus",
+                afirmacao: ""
             }
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Com qual padrinho mágico você se identifica mais?",
         alternativas: [
             {
-                texto: "Texto 5.1",
-                afirmacao: "Afirmação 5.1"
+                texto: "Cosmo",
+                afirmacao: ""
             },
             {
-                texto: "Texto 5.2",
-                afirmacao: "Afirmação 5.2"
+                texto: "Wanda",
+                afirmacao: ""
             }
         ]
     },
