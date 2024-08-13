@@ -1,10 +1,10 @@
 :root{ /*cria variáveis*/
 /*para declarar a variável basta digitar a função var() e dentro dos parênteses coloca o nome de variável criada*/
     --cor-fundo: #01080E;
-    --cor-principal: #0B0D20;
+    --cor-principal: #ffbb6e;
     --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-destaque: #531801;
+    --cor-texto: #02272e;
 }
 body{ /*estilização no corpo da página*/
     background-image: url(pudim.jpg);
