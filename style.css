@@ -3,7 +3,7 @@
     --cor-fundo: #01080E;
     --cor-principal: #ffbf77ab;
     --cor-secundaria: #212333;
-    --cor-destaque: linear-gradient(green, blue, red);
+    --cor-destaque: #531801;
     --cor-texto: #fff1d3;
 }
 body{ /*estilização no corpo da página*/
@@ -22,7 +22,10 @@ body{ /*estilização no corpo da página*/
     padding: 20px; /*espaçamento interno de 20 pixels*/
 }
 h1{ /*estilização do título da página*/
-    color: var(--cor-destaque);
+    background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 button { /*estilização dos botões*/
     background-color: var(--cor-secundaria);
