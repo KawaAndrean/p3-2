@@ -26,6 +26,7 @@ h1{ /*estilização do título da página*/
     color: black;
     background-clip: text;
     -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 button { /*estilização dos botões*/
     background-color: var(--cor-secundaria);
