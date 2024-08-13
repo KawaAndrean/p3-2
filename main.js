@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Beiçola",
-                afirmacao: "sua personalidade mais irreverente e engraçada, mas com uma sabedorai inesperada, tal qual Beiçola."
+                afirmacao: "sua personalidade mais irreverente e engraçada, mas com uma sabedoria inesperada, tal qual Beiçola."
             }
         ]
     },
