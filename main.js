@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Agostinho Carrara",
-                afirmacao: "Você é "
+                afirmacao: "seu carisma com um senso de justiça inabalável, inspírado por Agostinho Carrara."
             },
             {
                 texto: "Beiçola",
-                afirmacao: ""
+                afirmacao: "sua personalidade mais irreverente e engraçada, mas com uma sabedorai inesperada, tal qual Beiçola."
             }
         ]
     },
@@ -109,7 +109,7 @@ function respostaSelecionada(opcaoSelecionada) {
 
 //Essa função tem como objetivo exibir a narrativa final baseada nas respostas do usuário.
 function mostraResultado() {
-    caixaPerguntas.textContent = "De acordo com suas respostas, este é seu..."; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
+    caixaPerguntas.textContent = "Com base nas suas respostas, o que faria você derrotar o Thanos é"; //Define o conteúdo de texto do elemento caixaPerguntas para informar o usuário sobre o resultado.
     textoResultado.textContent = historiaFinal; //Define o conteúdo de texto do elemento textoResultado como a narrativa final acumulada.
     caixaAlternativas.textContent = ""; // Limpa o conteúdo do elemento caixaAlternativas.
 }
