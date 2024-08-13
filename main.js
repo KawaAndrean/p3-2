@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Agostinho Carrara",
-                afirmacao: ""
+                afirmacao: "Você é "
             },
             {
                 texto: "Beiçola",
