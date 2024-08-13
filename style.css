@@ -16,15 +16,18 @@ body{ /*estilização no corpo da página*/
     align-items: center; /*alinha os elementos dentro de um display no cenrto*/
     min-height: 100vh; /*define o tamanho minimo dos elementos: 100 vw = tamanho da janela de visualização*/
 }
+
 .caixa-principal{ /*estilização da classe caixa-principal*/
     background-color: var(--cor-principal);
     width: 90%; /*largura dos elementos*/
     text-align: center; /*alinha o texto no centro*/
     padding: 20px; /*espaçamento interno de 20 pixels*/
 }
+
 h1{ /*estilização do título da página*/
     color: var(--cor-destaque);
 }
+
 button { /*estilização dos botões*/
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
