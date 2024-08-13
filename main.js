@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Agostinho Carrara",
-                afirmacao: "seu carisma com um senso de justiça inabalável, inspírado por Agostinho Carrara."
+                afirmacao: "seu carisma com um senso de justiça inabalável, inspirado por Agostinho Carrara."
             },
             {
                 texto: "Beiçola",
