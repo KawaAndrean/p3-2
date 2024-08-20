@@ -6,67 +6,67 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual personagem da série A Grande Família você seria?",
+        enunciado: "Qual marca te agrada mais??",
         alternativas: [
             {
-                texto: "Agostinho Carrara",
-                afirmacao: "seu carisma com um senso de justiça inabalável, inspirado por Agostinho Carrara."
+                texto: "Toyota",
+                afirmacao: "Se você usa Toyota você geralmente valoriza a confiabilidade e a eficiência prática em seus veículos."
             },
             {
-                texto: "Beiçola",
-                afirmacao: "sua personalidade mais irreverente e engraçada, mas com uma sabedoria inesperada, tal qual Beiçola."
+                texto: "Honda",
+                afirmacao: "Se você usa Honda tende a buscar inovação e um equilíbrio entre desempenho e economia, com uma abordagem prática e confiável."
             }
         ]
     },
     {
-        enunciado: "Qual personagem do Clube das Winx você se identifica mais?",
+        enunciado: "Você prefere café quente ou café gelado?",
         alternativas: [
             {
-                texto: "Bloom",
-                afirmacao: ""
+                texto: "Quente",
+                afirmacao: "Se você é uma pessoa que toma café quente você é normal"
             },
             {
-                texto: "Flora",
-                afirmacao: ""
+                texto: "Gelado",
+                afirmacao: "Se você toma café gelado você é uma pessoa que precisa de internamento no CAPS"
             }
         ]
     },
     {
-        enunciado: "Qual personagem de Backyardigans você seria?",
+        enunciado: "Você prefgere praia ou piscina?",
         alternativas: [
             {
-                texto: "Pablo",
-                afirmacao: ""
+                texto: "Praia",
+                afirmacao: "Você gosta de se socializar, da dimensão do mar, pézinho na areia"
             },
             {
-                texto: "Oniqua",
-                afirmacao: ""
+                texto: "Piscina",
+                afirmacao: "Você gosta de privacidade, juntamente com os amigos, e não gosta de areia"
             }
         ]
     },
     {
-        enunciado: "Qual árbitro do Campeonato Brasileiro você se identifica mais?",
+        enunciado: "Música ao vivo ou gravada??",
         alternativas: [
             {
-                texto: "Daronco",
-                afirmacao: ""
+                texto: "Ao vivo",
+                afirmacao: "Gosta de desfrutar do momento, vendo tudo ao olho nu, vibrando junto com o cantor(a), sabe aproveitar a vida"
             },
             {
-                texto: "Raphael Claus",
-                afirmacao: ""
+                texto: "Gravada",
+                afirmacao: "Você gosta de ler as letras da legenda, ter sua privacidade e não precisar se socializar"
             }
         ]
     },
     {
-        enunciado: "Com qual padrinho mágico você se identifica mais?",
+        enunciado: "Cachorro ou gato?",
         alternativas: [
             {
-                texto: "Cosmo",
-                afirmacao: ""
+                texto: "Cachorro",
+                afirmacao: "Você gosta do caos diario, ter um bom companheiro, que te proporciona muito amor e muita raiva ao mesmo tempo"
             },
             {
-                texto: "Wanda",
-                afirmacao: ""
+                texto: "Gato",
+                afirmacao: "Você já gosta de um animal mais tranquilo, que não precisa de muito contato fisíco, ele lá e você aqui"
             }
         ]
     },
