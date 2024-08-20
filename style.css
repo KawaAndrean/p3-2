@@ -8,7 +8,6 @@
 }
 
 body{ /*estilização no corpo da página*/
-    background-image: url(pudim.jpg);
     background-color: var(--cor-fundo); /*cor de fundo*/
     color: var(--cor-texto); /*cor do texto*/
     display: flex; /**/
